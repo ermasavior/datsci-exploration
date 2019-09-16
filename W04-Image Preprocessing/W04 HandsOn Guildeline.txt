@@ -1,0 +1,13 @@
+Welcome to HandsOn Week04!
+
+In this week, we will play about data preprocessing for image/video data.
+Please make sure you have these libraries installed in your python environment before class.
+1. OpenCV: pip install opencv-python
+2. Numpy: pip install numpy
+3. Matplotlib: pip install matplotlib
+4. Scikit-image: pip install scikit-image
+
+Download "w04_handson_material.zip" in the course portal and extract it.
+As usual, enjoy "W04_your-student-id_your-name.ipynb".
+
+Nb: the zip password will be given in the handson class.

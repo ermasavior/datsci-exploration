@@ -1,0 +1,23 @@
+Welcome to HandsOn Week05!
+
+In this week, we will try to implement one of popular 
+dimentionality reduction techniques, which is PCA.
+To do this, you need to make sure that you already
+install these python libraries before class:
+   a. numpy
+   b. matplotlib
+   c. opencv
+   d. scikit-learn
+
+Since we will impelement PCA from the scratch 
+(from mathematical formula of PCA), make sure
+that you also already understand the concept well.
+You may take a look to the "PCA_slide.pdf", available
+in the course portal.
+
+Last, we will try to use "decision tree" classifier
+from scikit-learn. That's very simple one. For those who 
+are still not familiar with scikit-learn classifier pipeline,
+please learn it before. Again, it's very simple. 
+
+Enjoy~

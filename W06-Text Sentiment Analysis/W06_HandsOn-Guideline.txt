@@ -1,0 +1,15 @@
+Welcome to W06 Handson Week!
+
+In this handson week, we will continue to play about text 
+pre-processing to classification problem, especially 
+sentiment analysis. Make sure you already install these python
+libraries before class:
+1. NLTK (just like what we did in W03)
+2. scikit-learn
+3. numpy
+4. pandas
+
+Please download 'w06_handson-materials.zip' before class.
+We will give the password in the class.
+
+Enjoy~
